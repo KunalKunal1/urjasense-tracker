@@ -1,0 +1,23 @@
+# Global
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env.local
+
+# Java/Maven
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.iml
+
+# Environment
+.env
+.env.local
